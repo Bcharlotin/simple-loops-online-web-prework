@@ -41,7 +41,7 @@ def for_iterator(number_of_times)
   number_of_times = 1..7
   for for_iterator in number_of_times
   counter = 0 
-  puts "Welcome to Flatiron School's Web Development Course"
+  puts "Welcome to Flatiron School's Web Development Course!"
   counter= counter + 1 
   
   # code your solution here using the "for" keyword
